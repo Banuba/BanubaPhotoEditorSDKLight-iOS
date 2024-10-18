@@ -6887,15 +6887,15 @@
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/ContentService\/ContentService.swift",
       "kind": "StringLiteral",
       "offset": 423,
-      "length": 43,
-      "value": "\"bundleEffects\/effects_content_config.json\""
+      "length": 37,
+      "value": "\"configs\/effects_content_config.json\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/ContentService\/ContentService.swift",
       "kind": "StringLiteral",
-      "offset": 511,
-      "length": 39,
-      "value": "\"bundleEffects\/app_content_config.json\""
+      "offset": 505,
+      "length": 33,
+      "value": "\"configs\/app_content_config.json\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/ViewModels\/NeuroBeautyLashesViewModel.swift",
