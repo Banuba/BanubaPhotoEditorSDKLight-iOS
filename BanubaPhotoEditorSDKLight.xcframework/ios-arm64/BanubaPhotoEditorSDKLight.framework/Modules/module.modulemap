@@ -1,0 +1,4 @@
+framework module BanubaPhotoEditorSDKLight {
+  header "BanubaPhotoEditorSDKLight-Swift.h"
+  requires objc
+}
