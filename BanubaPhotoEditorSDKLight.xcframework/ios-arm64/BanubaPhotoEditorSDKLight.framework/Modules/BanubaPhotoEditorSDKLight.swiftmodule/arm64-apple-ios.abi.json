@@ -114,23 +114,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
         "declKind": "Import",
@@ -138,13 +121,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -182,16 +158,6 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -259,13 +225,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -296,13 +255,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -595,16 +547,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
         "declKind": "Import",
@@ -618,13 +560,6 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight",
         "declAttributes": [
           "RawDocComment"
@@ -634,16 +569,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight",
         "declAttributes": [
@@ -689,13 +614,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -710,26 +628,6 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -811,13 +709,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -828,13 +719,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -842,13 +726,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -874,16 +751,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight",
         "declAttributes": [
@@ -2315,13 +2182,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
         "declKind": "Import",
@@ -2329,13 +2189,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -2368,13 +2221,6 @@
         "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight"
       },
@@ -2441,13 +2287,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -2535,13 +2374,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2559,13 +2391,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "BanubaUtilities",
         "printedName": "BanubaUtilities",
         "declKind": "Import",
@@ -2578,13 +2403,6 @@
         "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight"
       },
@@ -2610,13 +2428,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "BanubaUtilities",
         "printedName": "BanubaUtilities",
         "declKind": "Import",
@@ -2725,20 +2536,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "QuartzCore",
-        "printedName": "QuartzCore",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -2754,13 +2551,6 @@
         "kind": "Import",
         "name": "AVFoundation",
         "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight"
       },
@@ -2790,13 +2580,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2838,13 +2621,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -2928,16 +2704,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
         "declKind": "Import",
@@ -2948,13 +2714,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -3012,13 +2771,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -3026,13 +2778,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
       },
       {
         "kind": "Import",
@@ -3134,16 +2879,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -3198,13 +2933,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -3229,16 +2957,6 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -3284,13 +3002,6 @@
         "kind": "Import",
         "name": "BanubaUtilities",
         "printedName": "BanubaUtilities",
-        "declKind": "Import",
-        "moduleName": "BanubaPhotoEditorSDKLight"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BanubaPhotoEditorSDKLight"
       },
@@ -4282,63 +3993,63 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 322,
+      "offset": 309,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 334,
+      "offset": 321,
       "length": 2,
       "value": "64"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 408,
+      "offset": 395,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 417,
+      "offset": 404,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 428,
+      "offset": 415,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 438,
+      "offset": 425,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 510,
+      "offset": 497,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/GalleryItemsBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 565,
+      "offset": 552,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/Helpers\/CachingImageAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 737,
+      "offset": 724,
       "length": 5,
       "value": "false"
     },
@@ -4499,42 +4210,42 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/ToolTabBarButton\/ToolbarButton.swift",
       "kind": "FloatLiteral",
-      "offset": 1336,
+      "offset": 1322,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/ToolTabBarButton\/ToolbarButton.swift",
       "kind": "FloatLiteral",
-      "offset": 1403,
+      "offset": 1389,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/ToolTabBarButton\/ToolbarButton.swift",
       "kind": "FloatLiteral",
-      "offset": 1409,
+      "offset": 1395,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/ToolTabBarButton\/ToolbarButton.swift",
       "kind": "FloatLiteral",
-      "offset": 1508,
+      "offset": 1494,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/ToolTabBarButton\/ToolbarButton.swift",
       "kind": "FloatLiteral",
-      "offset": 1514,
+      "offset": 1500,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/ToolTabBarButton\/ToolbarButton.swift",
       "kind": "BooleanLiteral",
-      "offset": 1645,
+      "offset": 1631,
       "length": 5,
       "value": "false"
     },
@@ -4709,14 +4420,14 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/AlbumColleciton\/AlbumCollectionViewCell.swift",
       "kind": "FloatLiteral",
-      "offset": 304,
+      "offset": 291,
       "length": 3,
       "value": "6.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Gallery\/AlbumColleciton\/AlbumCollectionViewCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 744,
+      "offset": 731,
       "length": 1,
       "value": "6"
     },
@@ -4842,70 +4553,70 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 472,
+      "offset": 459,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 527,
+      "offset": 514,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 590,
+      "offset": 577,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 644,
+      "offset": 631,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 699,
+      "offset": 686,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 757,
+      "offset": 744,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 813,
+      "offset": 800,
       "length": 4,
       "value": "20.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "Array",
-      "offset": 2739,
+      "offset": 2726,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3571,
+      "offset": 3558,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectSettingsEditorViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6066,
+      "offset": 6053,
       "length": 1,
       "value": "0"
     },
@@ -5402,245 +5113,245 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 349,
+      "offset": 336,
       "length": 3,
       "value": "3.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 400,
+      "offset": 387,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 451,
+      "offset": 438,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 462,
+      "offset": 449,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 472,
+      "offset": 459,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 571,
+      "offset": 558,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 581,
+      "offset": 568,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 590,
+      "offset": 577,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 603,
+      "offset": 590,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 687,
+      "offset": 674,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 785,
+      "offset": 772,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 796,
+      "offset": 783,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 972,
+      "offset": 959,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 1070,
+      "offset": 1057,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "IntegerLiteral",
-      "offset": 1081,
+      "offset": 1068,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 1159,
+      "offset": 1146,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "BooleanLiteral",
-      "offset": 1625,
+      "offset": 1612,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "BooleanLiteral",
-      "offset": 1741,
+      "offset": 1728,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 5750,
+      "offset": 5737,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 6182,
+      "offset": 6169,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 6289,
+      "offset": 6276,
       "length": 3,
       "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
+      "kind": "FloatLiteral",
+      "offset": 6311,
+      "length": 3,
+      "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
       "offset": 6324,
       "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
-      "kind": "FloatLiteral",
-      "offset": 6337,
-      "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 6349,
+      "offset": 6336,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 6539,
+      "offset": 6526,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 6991,
+      "offset": 6978,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 7098,
+      "offset": 7085,
       "length": 3,
       "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
+      "kind": "FloatLiteral",
+      "offset": 7096,
+      "length": 3,
+      "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
       "offset": 7109,
       "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
-      "kind": "FloatLiteral",
-      "offset": 7122,
-      "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/BeautificationSlider\/MainSlider.swift",
       "kind": "FloatLiteral",
-      "offset": 7158,
+      "offset": 7145,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/ColorItemView.swift",
       "kind": "FloatLiteral",
-      "offset": 259,
+      "offset": 246,
       "length": 4,
       "value": "36.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/ColorItemView.swift",
       "kind": "FloatLiteral",
-      "offset": 273,
+      "offset": 260,
       "length": 4,
       "value": "42.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/ColorItemView.swift",
       "kind": "FloatLiteral",
-      "offset": 360,
+      "offset": 347,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/ColorItemView.swift",
       "kind": "FloatLiteral",
-      "offset": 413,
+      "offset": 400,
       "length": 4,
       "value": "0.15"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/ColorItemView.swift",
       "kind": "FloatLiteral",
-      "offset": 456,
+      "offset": 443,
       "length": 3,
       "value": "0.8"
     },
@@ -5969,21 +5680,21 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Utils\/UIKit\/GradientView.swift",
       "kind": "Array",
-      "offset": 324,
+      "offset": 311,
       "length": 10,
       "value": "[0.0, 1.0]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Utils\/UIKit\/GradientView.swift",
       "kind": "BooleanLiteral",
-      "offset": 400,
+      "offset": 387,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Utils\/UIKit\/GradientView.swift",
       "kind": "BooleanLiteral",
-      "offset": 463,
+      "offset": 450,
       "length": 5,
       "value": "false"
     },
@@ -6081,112 +5792,112 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "FloatLiteral",
-      "offset": 265,
+      "offset": 252,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 370,
+      "offset": 357,
       "length": 3,
       "value": "108"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 382,
+      "offset": 369,
       "length": 3,
       "value": "108"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 393,
+      "offset": 380,
       "length": 3,
       "value": "114"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "FloatLiteral",
-      "offset": 449,
+      "offset": 436,
       "length": 5,
       "value": "200.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "FloatLiteral",
-      "offset": 464,
+      "offset": 451,
       "length": 4,
       "value": "28.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "FloatLiteral",
-      "offset": 527,
+      "offset": 514,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "FloatLiteral",
-      "offset": 592,
+      "offset": 579,
       "length": 4,
       "value": "12.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 648,
+      "offset": 635,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 659,
+      "offset": 646,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 669,
+      "offset": 656,
       "length": 2,
       "value": "54"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 721,
+      "offset": 708,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 733,
+      "offset": 720,
       "length": 3,
       "value": "242"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 744,
+      "offset": 731,
       "length": 3,
       "value": "244"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "FloatLiteral",
-      "offset": 788,
+      "offset": 775,
       "length": 4,
       "value": "14.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/Collection\/Cells\/ToolCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 1719,
+      "offset": 1706,
       "length": 4,
       "value": "true"
     },
@@ -6368,196 +6079,196 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "FloatLiteral",
-      "offset": 572,
+      "offset": 559,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "FloatLiteral",
-      "offset": 630,
+      "offset": 617,
       "length": 4,
       "value": "0.05"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "FloatLiteral",
-      "offset": 688,
+      "offset": 675,
       "length": 4,
       "value": "0.08"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "FloatLiteral",
-      "offset": 762,
+      "offset": 749,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "IntegerLiteral",
-      "offset": 825,
+      "offset": 812,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 909,
+      "offset": 896,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1006,
+      "offset": 993,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1097,
+      "offset": 1084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "IntegerLiteral",
-      "offset": 1139,
+      "offset": 1126,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1737,
+      "offset": 1724,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 1789,
+      "offset": 1776,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "Array",
-      "offset": 2054,
+      "offset": 2041,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "IntegerLiteral",
-      "offset": 2090,
+      "offset": 2077,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 2145,
+      "offset": 2132,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 2180,
+      "offset": 2167,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "BooleanLiteral",
-      "offset": 3026,
+      "offset": 3013,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "Array",
-      "offset": 3088,
+      "offset": 3075,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "Array",
-      "offset": 3143,
+      "offset": 3130,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "Dictionary",
-      "offset": 3233,
+      "offset": 3220,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/EditingModeInteractor.swift",
       "kind": "FloatLiteral",
-      "offset": 33126,
+      "offset": 33113,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 272,
+      "offset": 259,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 492,
+      "offset": 479,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 784,
+      "offset": 771,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 794,
+      "offset": 781,
       "length": 4,
       "value": "11.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 799,
+      "offset": 786,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 812,
+      "offset": 799,
       "length": 5,
       "value": "227.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 818,
+      "offset": 805,
       "length": 5,
       "value": "255.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIColor+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 832,
+      "offset": 819,
       "length": 4,
       "value": "0.23"
     },
@@ -7082,28 +6793,28 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Utils\/UIKit\/UIImage+RawDataCreation.swift",
       "kind": "IntegerLiteral",
-      "offset": 2905,
+      "offset": 2892,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/DeviceService\/DeviceService.swift",
       "kind": "StringLiteral",
-      "offset": 465,
+      "offset": 452,
       "length": 24,
       "value": "\"photo_action_sound.wav\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/DeviceService\/DeviceService.swift",
       "kind": "StringLiteral",
-      "offset": 527,
+      "offset": 514,
       "length": 24,
       "value": "\"video_action_sound.wav\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/DeviceService\/DeviceService.swift",
       "kind": "StringLiteral",
-      "offset": 588,
+      "offset": 575,
       "length": 23,
       "value": "\"save_action_sound.wav\""
     },
@@ -7194,140 +6905,140 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "FloatLiteral",
-      "offset": 594,
+      "offset": 581,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "FloatLiteral",
-      "offset": 642,
+      "offset": 629,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "FloatLiteral",
-      "offset": 701,
+      "offset": 688,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 767,
+      "offset": 754,
       "length": 8,
       "value": "0xFFFFFF"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "StringLiteral",
-      "offset": 806,
+      "offset": 793,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "FloatLiteral",
-      "offset": 856,
+      "offset": 843,
       "length": 4,
       "value": "33.0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "FloatLiteral",
-      "offset": 987,
+      "offset": 974,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "FloatLiteral",
-      "offset": 1052,
+      "offset": 1039,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1110,
+      "offset": 1097,
       "length": 8,
       "value": "0xFFFFFF"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1170,
+      "offset": 1157,
       "length": 8,
       "value": "0x000000"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1230,
+      "offset": 1217,
       "length": 8,
       "value": "0x3095F3"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1290,
+      "offset": 1277,
       "length": 8,
       "value": "0x6DC249"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1350,
+      "offset": 1337,
       "length": 8,
       "value": "0xFECB51"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1410,
+      "offset": 1397,
       "length": 8,
       "value": "0xFF8C1F"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1470,
+      "offset": 1457,
       "length": 8,
       "value": "0xEF4752"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1530,
+      "offset": 1517,
       "length": 8,
       "value": "0xD20068"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1590,
+      "offset": 1577,
       "length": 8,
       "value": "0xA500BC"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2439,
+      "offset": 2426,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2808,
+      "offset": 2795,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EditingMode\/TextOverlayEditor\/TextOverlayEditorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2835,
+      "offset": 2822,
       "length": 1,
       "value": "0"
     },
@@ -7390,14 +7101,14 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectEditorHandlers\/BaseEffectEditorHandler.swift",
       "kind": "Array",
-      "offset": 1507,
+      "offset": 1495,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/EffectSettingsEditor\/EffectEditorHandlers\/BaseEffectEditorHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 1556,
+      "offset": 1544,
       "length": 5,
       "value": "false"
     },
@@ -7579,28 +7290,28 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/ShareService\/ShareService.swift",
       "kind": "StringLiteral",
-      "offset": 330,
+      "offset": 317,
       "length": 11,
       "value": "\"Instagram\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/ShareService\/ShareService.swift",
       "kind": "StringLiteral",
-      "offset": 368,
+      "offset": 355,
       "length": 19,
       "value": "\"Instagram Stories\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/ShareService\/ShareService.swift",
       "kind": "StringLiteral",
-      "offset": 413,
+      "offset": 400,
       "length": 18,
       "value": "\"Facebook Stories\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Services\/ShareService\/ShareService.swift",
       "kind": "StringLiteral",
-      "offset": 448,
+      "offset": 435,
       "length": 8,
       "value": "\"system\""
     },
@@ -7691,35 +7402,35 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIView+Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 1422,
+      "offset": 1408,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIView+Utils.swift",
       "kind": "IntegerLiteral",
-      "offset": 1464,
+      "offset": 1450,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIView+Utils.swift",
       "kind": "Array",
-      "offset": 1505,
+      "offset": 1491,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIView+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 2662,
+      "offset": 2648,
       "length": 3,
       "value": "0.6"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/Extensions\/UIKit\/UIView+Utils.swift",
       "kind": "FloatLiteral",
-      "offset": 2712,
+      "offset": 2698,
       "length": 3,
       "value": "1.0"
     },
@@ -7754,35 +7465,35 @@
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Base\/BanubaPhotoEditor.swift",
       "kind": "StringLiteral",
-      "offset": 4223,
+      "offset": 4210,
       "length": 54,
       "value": "\"Failed to decode image at url. \""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Base\/BanubaPhotoEditor.swift",
       "kind": "StringLiteral",
-      "offset": 4276,
+      "offset": 4263,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Base\/BanubaPhotoEditor.swift",
       "kind": "BooleanLiteral",
-      "offset": 4788,
+      "offset": 4775,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Base\/BanubaPhotoEditor.swift",
       "kind": "StringLiteral",
-      "offset": 4912,
+      "offset": 4899,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/andreysak\/Developer\/ve_sdk_ios_2023\/BanubaPhotoEditorSDK\/BanubaPhotoEditorSDK\/RIBs\/Base\/BanubaPhotoEditor.swift",
       "kind": "BooleanLiteral",
-      "offset": 5190,
+      "offset": 5177,
       "length": 4,
       "value": "true"
     },

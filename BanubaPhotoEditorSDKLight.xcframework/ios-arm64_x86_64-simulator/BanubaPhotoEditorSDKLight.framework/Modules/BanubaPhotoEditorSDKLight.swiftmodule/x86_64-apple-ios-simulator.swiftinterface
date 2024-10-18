@@ -8,13 +8,13 @@ import AudioToolbox
 import BNBSdkApi
 import BNBSdkCore
 import BanubaLicenseServicingSDK
+@_exported import BanubaPhotoEditorSDKLight
 import BanubaUtilities
 import CoreGraphics
 import DeveloperToolsSupport
 import Foundation
 import Photos
 import PhotosUI
-import QuartzCore
 import Swift
 import SwiftUI
 import UIKit
