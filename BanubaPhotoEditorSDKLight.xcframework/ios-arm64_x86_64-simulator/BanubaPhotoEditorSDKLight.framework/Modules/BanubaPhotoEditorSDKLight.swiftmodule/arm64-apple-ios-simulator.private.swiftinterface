@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
 // swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name BanubaPhotoEditorSDKLight
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AVFoundation
@@ -35,12 +35,13 @@ public struct PhotoEditorConfig {
   }
   public var editorScreenConfiguration: BanubaPhotoEditorSDKLight.EditorScreenConfiguration
   public var previewScreenMode: BanubaPhotoEditorSDKLight.PhotoEditorConfig.PreviewScreenMode
-  public var resourcesURL: Foundation.URL
-  public static var defaultResourcesBundleURL: Foundation.URL {
+  public var beautyMaskURL: Foundation.URL
+  public var effectPlayerResourcesURL: Foundation.URL?
+  public static var defaultBeautyMaskBundleURL: Foundation.URL {
     get
   }
   public init()
-  public init(editorScreenConfiguration: BanubaPhotoEditorSDKLight.EditorScreenConfiguration = .init(), previewScreenMode: BanubaPhotoEditorSDKLight.PhotoEditorConfig.PreviewScreenMode, resourcesURL: Foundation.URL = Self.defaultResourcesBundleURL)
+  public init(editorScreenConfiguration: BanubaPhotoEditorSDKLight.EditorScreenConfiguration = .init(), previewScreenMode: BanubaPhotoEditorSDKLight.PhotoEditorConfig.PreviewScreenMode, beautyMaskURL: Foundation.URL = Self.defaultBeautyMaskBundleURL, effectPlayerResourcesURL: Foundation.URL? = nil)
 }
 public struct EditorScreenConfiguration {
   public var saveResultToPhotoLibrary: Swift.Bool
