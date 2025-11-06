@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
-// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name BanubaPhotoEditorSDKLight
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name BanubaPhotoEditorSDKLight
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
 import AVFoundation
 import Accelerate
 import AudioToolbox
@@ -26,7 +26,9 @@ import _SwiftConcurrencyShims
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func awakeFromNib()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func prepareForReuse()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
 }
 public struct PhotoEditorConfig {
   public enum PreviewScreenMode {
@@ -41,7 +43,9 @@ public struct PhotoEditorConfig {
     get
   }
   public init()
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(editorScreenConfiguration: BanubaPhotoEditorSDKLight.EditorScreenConfiguration = .init(), previewScreenMode: BanubaPhotoEditorSDKLight.PhotoEditorConfig.PreviewScreenMode, beautyMaskURL: Foundation.URL = Self.defaultBeautyMaskBundleURL, effectPlayerResourcesURL: Foundation.URL? = nil)
+  #endif
 }
 public struct EditorScreenConfiguration {
   public var saveResultToPhotoLibrary: Swift.Bool
@@ -56,7 +60,9 @@ public struct PreviewScreenConfiguration {
   }
   public var closeButtonConfiguration: ((UIKit.UIButton) -> ())?
   public var shareButtonsMode: BanubaPhotoEditorSDKLight.PreviewScreenConfiguration.ShareButtonsMode
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(shareButtonsMode: BanubaPhotoEditorSDKLight.PreviewScreenConfiguration.ShareButtonsMode, closeButtonConfiguration: ((UIKit.UIButton) -> ())? = nil)
+  #endif
   public init()
 }
 public struct ShareButtonsConfiguration : Swift.Equatable {
@@ -75,15 +81,25 @@ public struct PhotoEditorLaunchConfig {
   public var entryPoint: BanubaPhotoEditorSDKLight.PhotoEditorEntryPoint
   public init(hostController: UIKit.UIViewController, entryPoint: BanubaPhotoEditorSDKLight.PhotoEditorEntryPoint = .gallery)
 }
-public protocol BanubaPhotoEditorDelegate : AnyObject {
-  func photoEditorDidCancel(_ photoEditor: BanubaPhotoEditorSDKLight.BanubaPhotoEditor)
-  func photoEditorDidFinishWithImage(_ photoEditor: BanubaPhotoEditorSDKLight.BanubaPhotoEditor, image: UIKit.UIImage)
+@objc public protocol BanubaPhotoEditorDelegate {
+  @objc(photoEditorDidCancel:) func photoEditorDidCancel(_ photoEditor: BanubaPhotoEditorSDKLight.BanubaPhotoEditor)
+  @objc(photoEditorDidFinishWithImage:image:) func photoEditorDidFinishWithImage(_ photoEditor: BanubaPhotoEditorSDKLight.BanubaPhotoEditor, image: UIKit.UIImage)
 }
-public class BanubaPhotoEditor {
-  weak public var delegate: (any BanubaPhotoEditorSDKLight.BanubaPhotoEditorDelegate)?
+@objc public class BanubaPhotoEditor : ObjectiveC.NSObject {
+  @objc weak public var delegate: (any BanubaPhotoEditorSDKLight.BanubaPhotoEditorDelegate)?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(token: Swift.String, configuration: BanubaPhotoEditorSDKLight.PhotoEditorConfig)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc public init?(license: BanubaLicenseServicingSDK.License)
+  #endif
   @objc deinit
+  @objc(presentPhotoEditorForImage:fromViewController:) public func presentPhotoEditor(for image: UIKit.UIImage, from vc: UIKit.UIViewController)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func presentPhotoEditor(withLaunchConfiguration configuration: BanubaPhotoEditorSDKLight.PhotoEditorLaunchConfig, completion: (() -> Swift.Void)?)
-  public func dismissPhotoEditor(animated: Swift.Bool, completion: (() -> Swift.Void)?)
-  public func getLicenseState(completion: @escaping ((Swift.Bool) -> Swift.Void))
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc(dismissPhotoEditorAnimated:completion:) public func dismissPhotoEditor(animated: Swift.Bool, completion: (() -> Swift.Void)?)
+  #endif
+  public func getLicenseState(completion: @escaping (Swift.Bool) -> Swift.Void)
 }
