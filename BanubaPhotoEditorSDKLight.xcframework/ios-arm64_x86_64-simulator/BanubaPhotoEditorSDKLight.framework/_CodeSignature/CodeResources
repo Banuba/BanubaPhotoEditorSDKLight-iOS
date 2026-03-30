@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		f4z3QtpQnqvlKj+V39w6VskscwI=
+		ZLGcvNcgOrzAXRwjzrhKLx0SDAw=
 		</data>
 		<key>BackdropCell.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>EditingModeViewController.nib</key>
 		<data>
-		7itAh8aNXsu9NysByaGhIdNzcqM=
+		3NFGH85+a+Vk8fe+R1RgDz7Goac=
 		</data>
 		<key>EffectFeatureCell.nib</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Headers/BanubaPhotoEditorSDKLight-Swift.h</key>
 		<data>
-		0cpQXgOmiwqGisrYj87TvLNMnrQ=
+		cELlxHOlwIEjd4b0yZtkXeCG8Ck=
 		</data>
 		<key>Headers/BanubaPhotoEditorSDKLight.h</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3ugdzq8IuIMY3BKAOw3OlbLgCP4=
+		TW7i7kZe1DWEgyBAwDxxBr8ssmA=
 		</data>
 		<key>LimitedAccessCell.nib</key>
 		<data>
@@ -102,43 +102,43 @@
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qY4R0PnMAUZIlV2P0plq39E24v0=
+		Dxxlpy6ya42bZWnybSxBZwus9/8=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		/URcfzXicJq0IA/rrleSHRC4goo=
+		I8cjjppZhii8jsTCJ0VdM/X/FJo=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UqHh04ayygJni4wuGUu7wZrq8i8=
+		EFCIZPyVCcC6s/9T3fdfLPsCwiw=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/URcfzXicJq0IA/rrleSHRC4goo=
+		I8cjjppZhii8jsTCJ0VdM/X/FJo=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ar/f/+OqugC3KheUSunoac0hJo8=
+		XXipJbXKnqjfdRmAvwauGRqLdxI=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qY4R0PnMAUZIlV2P0plq39E24v0=
+		Dxxlpy6ya42bZWnybSxBZwus9/8=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DKHUgdzN3JlxtxI6PUDDRv9QBfE=
+		YV2IJrAHgsEFJSDZgw5wOb6r5M4=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		3vMKAJopMkfylwKzREYbwr63IPw=
+		vfrFYWXQsjMNRdKQSHpmWsqRPUM=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DKHUgdzN3JlxtxI6PUDDRv9QBfE=
+		YV2IJrAHgsEFJSDZgw5wOb6r5M4=
 		</data>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RqJChVR+Md8EeBWhP8JZD4eTyJ8=
+		r5lsVRJ04Ya6Lt5bpECY4C6WAkU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -185,7 +185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KiYeuy2tyPN5hkFpX+6EqqKF1C9jfG7yI+R++3KKunI=
+			Y9bV0eSlERpOMwTzOPTVXTj+Vv29zNegC+jeD249zQs=
 			</data>
 		</dict>
 		<key>BackdropCell.nib</key>
@@ -220,7 +220,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRWAnbyqOjGJPR7c607SN4kidPmnic6Ms1Kz+iLusCs=
+			QJoTmdLQQXRMQfye06nmnk6kZ8pzQtB6tpQbyZnu8YI=
 			</data>
 		</dict>
 		<key>EffectFeatureCell.nib</key>
@@ -290,7 +290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7EtXYLoxJ04rllpdhQRojI7FJB1AVXfkbky9IJcNcXE=
+			8uJNjffjJBrmmiIoAdoBXOklevMRspFqbKKLu+V6xGU=
 			</data>
 		</dict>
 		<key>Headers/BanubaPhotoEditorSDKLight.h</key>
@@ -332,70 +332,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AWvJnKlKRYbo3QLgBmW717rbT+25ru9oN97RWzY7Uvo=
+			aRJ0Doe5/dGbzwaIpEbBAisdcFx261KssI+1/kYGDAU=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW8pQEEgBfjEpqMymVetWaznsWEYijB5Ya7ShYZpT8I=
+			Wef/PFop+tv467F5DPFBiZs8lMfmR0wfPLoiFcEfPmI=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZHaeBQKbi4ldn8j/ORYcoIUOMb/3ogMUtN9CUTjbwpw=
+			DOGGtm+XrYoAiqAzFmaWXvfpmjSOuzDV87ZPJovUaVs=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CW8pQEEgBfjEpqMymVetWaznsWEYijB5Ya7ShYZpT8I=
+			Wef/PFop+tv467F5DPFBiZs8lMfmR0wfPLoiFcEfPmI=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fsTMGxb9GhmjTWdW7B4Uvf10IU5sTfoIxRllV4Dcn3c=
+			o157+seRHd7sA7rClhpK6l2nTVv48L5OyINOM+AoQjQ=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AWvJnKlKRYbo3QLgBmW717rbT+25ru9oN97RWzY7Uvo=
+			aRJ0Doe5/dGbzwaIpEbBAisdcFx261KssI+1/kYGDAU=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/rxKB04pIpmslHvs6rBbdTpj91gCvtYeTkWtXjbe6to=
+			R17by1BsYw8mjpoEhYud0YZZAUtTi4/rngSrbRARHSY=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yga72HOVRIYrOVaVsS6Qi2ZsjBeWmdDyr9yaLDo642o=
+			PgT0H8CGxfVddaVUveaTHgm29xinWqXzO3vvc60iD5Y=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/rxKB04pIpmslHvs6rBbdTpj91gCvtYeTkWtXjbe6to=
+			R17by1BsYw8mjpoEhYud0YZZAUtTi4/rngSrbRARHSY=
 			</data>
 		</dict>
 		<key>Modules/BanubaPhotoEditorSDKLight.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v1DnDMriYDGDaoHRQcmbK/pObFMEEID8Y2wt5jlwoO0=
+			fqEF4UVnnBsYxTjQbjaPi4XGOc6Lk1oM390i5QCzN70=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
