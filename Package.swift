@@ -32,7 +32,7 @@ let package = Package(
     
     .package(url: "https://github.com/Banuba/BanubaDesignSystem.git", designSystemVersionRange),
     .package(url: "https://github.com/Banuba/BanubaUtilities-iOS.git", banubaUtilsVersionRange),
-    .package(url: "https://github.com/Banuba/BanubaLicenseServicingSDK.git", banubaLicenseServicingVersionRange,
+    .package(url: "https://github.com/Banuba/BanubaLicenseServicingSDK.git", banubaLicenseServicingVersionRange),
   ],
   targets: [
     .target(
@@ -72,7 +72,7 @@ let package = Package(
     .binaryTarget(
       name: "BanubaPhotoEditorSDK",
       url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDKLight/1.4.0/BanubaPhotoEditorSDKLight-1.4.0.xcframework.zip",
-      checksum: "4e074141165d0d8aa12cf05cad4c167654d81a960a2ab4a9e525e8c72a92e46f"
+      checksum: "4da147e1313c60431459e878e072ff85f71e62157c86b20c80b651f50bc09453"
     )
   ]
 )
