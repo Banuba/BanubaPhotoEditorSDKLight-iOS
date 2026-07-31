@@ -3,9 +3,9 @@
 import PackageDescription
 
 let faceARversionRange: Range<Version> = "1.17.5-beta.0"..<"1.17.99"
-let designSystemVersionRange: Range<Version> = "1.0.0-beta.0"..<"2.0.0"
-let banubaUtilsVersionRange: Range<Version> = "1.53.0-beta.0"..<"1.60.99"
-let banubaLicenseServicingVersionRange: Range<Version> = "1.53.0-beta.0"..<"1.60.99"
+let designSystemVersionRange: Range<Version> = "1.0.3"..<"2.0.0"
+let banubaUtilsVersionRange: Range<Version> = "1.53.1"..<"1.60.99"
+let banubaLicenseServicingVersionRange: Range<Version> = "1.53.1"..<"1.60.99"
 
 let package = Package(
   name: "BanubaPhotoEditorSDK",
@@ -62,17 +62,10 @@ let package = Package(
       ],
       path: "BanubaPhotoEditorSDKTarget"
     ),
-    // Local development uses the path-based binaryTarget below.
-    // Release flow (fastlane patch_package_swift_for_nexus) replaces it in the GitHub distribution repo with:
-    // .binaryTarget(
-    //   name: "BanubaPhotoEditorSDK",
-    //   url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDK/{version}/BanubaPhotoEditorSDK-{version}.xcframework.zip",
-    //   checksum: "{computed at release}"
-    // )
     .binaryTarget(
       name: "BanubaPhotoEditorSDK",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDKLight/1.4.0/BanubaPhotoEditorSDKLight-1.4.0.xcframework.zip",
-      checksum: "4da147e1313c60431459e878e072ff85f71e62157c86b20c80b651f50bc09453"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDKLight/1.4.1-beta.0/BanubaPhotoEditorSDKLight-1.4.1-beta.0.xcframework.zip",
+      checksum: "ad722fa516bdd313c706708921e3757fce47dc14d56fb72dad55af253239abd5"
     )
   ]
 )
