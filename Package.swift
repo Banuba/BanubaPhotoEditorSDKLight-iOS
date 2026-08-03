@@ -64,8 +64,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "BanubaPhotoEditorSDK",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDKLight/1.4.1-beta.0/BanubaPhotoEditorSDKLight-1.4.1-beta.0.xcframework.zip",
-      checksum: "ad722fa516bdd313c706708921e3757fce47dc14d56fb72dad55af253239abd5"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDKLight/1.4.1/BanubaPhotoEditorSDKLight-1.4.1.xcframework.zip",
+      checksum: "095f7bc84458923629dee23454b8aa3abab3901a98f2e6d77a393db03742b492"
     )
   ]
 )
