@@ -4,8 +4,8 @@ import PackageDescription
 
 let faceARversionRange: Range<Version> = "1.17.5-beta.0"..<"1.17.99"
 let designSystemVersionRange: Range<Version> = "1.0.3"..<"2.0.0"
-let banubaUtilsVersionRange: Range<Version> = "1.54.1"..<"1.60.99"
-let banubaLicenseServicingVersionRange: Range<Version> = "1.54.1"..<"1.60.99"
+let banubaUtilsVersionRange: Range<Version> = "1.54.2"..<"1.60.99"
+let banubaLicenseServicingVersionRange: Range<Version> = "1.54.2"..<"1.60.99"
 
 let package = Package(
   name: "BanubaPhotoEditorSDK",
@@ -64,8 +64,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "BanubaPhotoEditorSDK",
-      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDKLight/1.4.2/BanubaPhotoEditorSDKLight-1.4.2.xcframework.zip",
-      checksum: "2b564ea3bbc39365d53b155a00ff1eacfd21b8996dffdcee78c2086d0ff3d148"
+      url: "https://nexus.banuba.net/repository/ios-frameworks/ios/frameworks/BanubaPhotoEditorSDKLight/1.4.3/BanubaPhotoEditorSDKLight-1.4.3.xcframework.zip",
+      checksum: "bc975efab06f7ae3b1fe4adabfd1d91166bb3493709ace731303068b780b071b"
     )
   ]
 )
